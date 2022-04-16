@@ -5,6 +5,6 @@ public class class1
     public static void main(String[] args)
     
     {
-		System.out.println("git hub sample project");
+		System.out.println("git hub sample project1");
 	}
 }
